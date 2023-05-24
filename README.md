@@ -1,3 +1,9 @@
+postman collection: 
+https://api.postman.com/collections/19011844-83ff53d4-5815-4d52-82f1-b48c795a00a9?access_key=PMAT-01H15STN8ZH4FS2FPST55G8DBH
+
+video:
+https://youtu.be/zC8XZKTKDUs
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
